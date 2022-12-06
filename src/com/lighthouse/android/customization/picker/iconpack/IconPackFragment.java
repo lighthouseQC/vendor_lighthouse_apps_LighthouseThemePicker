@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package co.aospa.android.customization.picker.iconpack;
+package com.lighthouse.android.customization.picker.iconpack;
 
 import static com.android.wallpaper.widget.BottomActionBar.BottomAction.APPLY_TEXT;
 
@@ -41,8 +41,8 @@ import com.android.wallpaper.R;
 import com.android.wallpaper.picker.AppbarFragment;
 import com.android.wallpaper.widget.BottomActionBar;
 
-import co.aospa.android.customization.model.iconpack.IconPackOption;
-import co.aospa.android.customization.model.iconpack.IconPackManager;
+import com.lighthouse.android.customization.model.iconpack.IconPackOption;
+import com.lighthouse.android.customization.model.iconpack.IconPackManager;
 
 import java.util.List;
 

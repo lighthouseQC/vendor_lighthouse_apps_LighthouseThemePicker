@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package co.aospa.android.customization.model.font;
+package com.lighthouse.android.customization.model.font;
 
 import android.content.Context;
 import android.util.Log;
@@ -34,8 +34,8 @@ import com.android.wallpaper.R;
 import com.android.wallpaper.model.CustomizationSectionController;
 import com.android.wallpaper.util.LaunchUtils;
 
-import co.aospa.android.customization.picker.font.FontFragment;
-import co.aospa.android.customization.picker.font.FontSectionView;
+import com.lighthouse.android.customization.picker.font.FontFragment;
+import com.lighthouse.android.customization.picker.font.FontSectionView;
 
 import java.util.List;
 
